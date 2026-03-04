@@ -48,7 +48,8 @@ Estou sempre estudando, praticando e buscando melhorar minhas habilidades como d
 
 ## 📫 Contato
 <a href="https://github.com/brenorsilva002"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a> 
-< a href="brenorsilva1201@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>  
+<br>
+E-mail - brenorsilva1201@gmail.com
 
 ---
 
