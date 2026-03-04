@@ -13,14 +13,15 @@ Me tornar um *Programador Full Stack, dominando tanto o desenvolvimento **Front-
 ## 🧠 Tecnologias em Aprendizado
 
 ### 🌐 Front-end
-- HTML5  
-- CSS3  
-- JavaScript  
-- React  
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
+<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript">
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
+<img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native">
 
 ### 🖥️ Back-end
-- Java  
-- PHP  
+<img src="https://img.shields.io/badge/Java_25-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java 25">
+<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"> 
 
 ### 🛠️ Outros Conhecimentos
 - Lógica de Programação  
@@ -46,8 +47,8 @@ Estou sempre estudando, praticando e buscando melhorar minhas habilidades como d
 ---
 
 ## 📫 Contato
-- GitHub: https://github.com/brenorsilva002 
-- Email: brenorsilva1201@gmail.com  
+<a href="https://github.com/brenorsilva002"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a> 
+< a href="brenorsilva1201@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>  
 
 ---
 
